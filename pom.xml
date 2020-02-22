@@ -26,7 +26,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <!--可以添加多个xml文件-->
-                        <suiteXmlFile>suite.xml</suiteXmlFile>
+                        <suiteXmlFile>testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
